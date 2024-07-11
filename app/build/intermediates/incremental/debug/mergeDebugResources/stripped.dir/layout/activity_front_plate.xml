@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zinc_800"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/zinc_800"
+        android:padding="16dp">
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Front Plate"-->
+<!--            android:textColor="@color/zinc_200"-->
+<!--            android:textSize="18sp"-->
+<!--            android:layout_gravity="center_horizontal" />-->
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:text="Plate Size"-->
+<!--            android:textColor="@color/zinc_200"-->
+<!--            android:layout_marginTop="16dp" />-->
+
+        <Spinner
+            android:id="@+id/spinnerPlateSize"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_background" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter Number Plate"
+            android:textColor="@color/zinc_200"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/editTextNumberPlate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Number Plate"
+            android:textColor="@color/zinc_200"
+            android:padding="10dp"
+            android:layout_marginTop="8dp"
+            android:textColorHint="@color/zinc_600"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Enter Dealer Info"
+            android:textColor="@color/zinc_200"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/editTextDealerInfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Dealer Info"
+            android:textColor="@color/zinc_200"
+            android:padding="10dp"
+            android:layout_marginTop="8dp"
+            android:textColorHint="@color/zinc_600"/>
+
+        <!-- Checkbox to toggle border -->
+        <CheckBox
+            android:id="@+id/checkBoxShowBorder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Show Border"
+            android:textColor="@color/zinc_200"
+            android:layout_marginTop="16dp"
+            android:checked="false" />
+
+
+        <!-- Container for Front Plate -->
+        <RelativeLayout
+            android:id="@+id/containerFront"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:padding="16dp"
+            android:paddingBottom="24dp"
+            android:minHeight="200dp"
+            android:background="@drawable/border">
+
+            <TextView
+                android:id="@+id/textViewLetters"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="50sp"
+                android:layout_centerInParent="true" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/zinc_200"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:padding="0dp">
+
+                <TextView
+                    android:id="@+id/textViewDealerInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="@color/black"
+                    android:layout_marginBottom="0dp"
+                    android:textSize="12sp"
+                    android:layout_gravity="center"
+                    android:padding="8dp"/>
+
+            </FrameLayout>
+        </RelativeLayout>
+
+        <!-- Container for Rear Plate -->
+        <RelativeLayout
+            android:id="@+id/containerFrontRear"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:padding="16dp"
+            android:paddingBottom="24dp"
+            android:minHeight="200dp"
+            android:background="@drawable/border_rear">
+
+            <TextView
+                android:id="@+id/textViewLettersRear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textSize="50sp"
+                android:layout_centerInParent="true" />
+
+            <FrameLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border_with_condition_rear"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:padding="0dp">
+
+                <TextView
+                    android:id="@+id/textViewDealerInfoRear"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=""
+                    android:textColor="@color/black"
+                    android:layout_marginBottom="0dp"
+                    android:textSize="12sp"
+                    android:layout_gravity="center"
+                    android:padding="8dp"/>
+
+            </FrameLayout>
+        </RelativeLayout>
+
+
+                <Button
+                    android:id="@+id/buttonPrint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Printer"
+                    android:background="@drawable/button_background"
+                    android:textColor="@color/zinc_200"
+                    android:layout_marginTop="16dp" />
+
+        <TextView
+            android:id="@+id/textViewPlateDimensions"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/zinc_200"
+            android:layout_marginTop="16dp" />
+
+    </LinearLayout>
+</ScrollView>

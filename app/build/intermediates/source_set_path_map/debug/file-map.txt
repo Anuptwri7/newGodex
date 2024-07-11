@@ -1,0 +1,20 @@
+com.godex.sample.app-design-28.0.0-0 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\res
+com.godex.sample.app-appcompat-v7-28.0.0-1 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\res
+com.godex.sample.app-recyclerview-v7-28.0.0-2 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\res
+com.godex.sample.app-navigation-runtime-1.0.0-3 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\res
+com.godex.sample.app-coordinatorlayout-28.0.0-4 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\res
+com.godex.sample.app-transition-28.0.0-5 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\res
+com.godex.sample.app-support-compat-28.0.0-6 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\res
+com.godex.sample.app-constraint-layout-1.0.2-7 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\res
+com.godex.sample.app-cardview-v7-28.0.0-8 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\res
+com.godex.sample.app-navigation-common-1.0.0-9 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\res
+com.godex.sample.app-navigation-fragment-1.0.0-10 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\res
+com.godex.sample.app-navigation-ui-1.0.0-11 C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\res
+com.godex.sample.app-pngs-12 D:\anup\godex-master\godex-master\app\build\generated\res\pngs\debug
+com.godex.sample.app-resValues-13 D:\anup\godex-master\godex-master\app\build\generated\res\resValues\debug
+com.godex.sample.app-rs-14 D:\anup\godex-master\godex-master\app\build\generated\res\rs\debug
+com.godex.sample.app-mergeDebugResources-15 D:\anup\godex-master\godex-master\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.godex.sample.app-mergeDebugResources-16 D:\anup\godex-master\godex-master\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.godex.sample.app-merged_res-17 D:\anup\godex-master\godex-master\app\build\intermediates\merged_res\debug
+com.godex.sample.app-debug-18 D:\anup\godex-master\godex-master\app\src\debug\res
+com.godex.sample.app-main-19 D:\anup\godex-master\godex-master\app\src\main\res

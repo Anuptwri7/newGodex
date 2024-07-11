@@ -1,0 +1,7 @@
+<resources>
+    <color name="zinc_800">#37474F</color>
+    <color name="zinc_700">#455A64</color>
+    <color name="zinc_600">#546E7A</color>
+    <color name="zinc_200">#ECEFF1</color>
+    <color name="black">#000000</color> <!-- Add this line -->
+</resources>

@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.godex.sample.app-mergeDebugResources-15:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "D:\\anup\\godex-master\\godex-master\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "from": {
+                        "startLines": "2,1",
+                        "startColumns": "4,4",
+                        "startOffsets": "58,16",
+                        "endColumns": "57,41",
+                        "endOffsets": "111,53"
+                    },
+                    "to": {
+                        "startLines": "5,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "264,322",
+                        "endColumns": "57,41",
+                        "endOffsets": "317,359"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\caches\\transforms-3\\2a66faf977ba55b9a65549d535de25e1\\transformed\\appcompat-v7-28.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\caches\\transforms-3\\121a3ebb37e5cc25be543996c68a190e\\transformed\\design-28.0.0\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "364",
+                        "endLines": "10",
+                        "endColumns": "10",
+                        "endOffsets": "531"
+                    }
+                }
+            ]
+        }
+    ]
+}
