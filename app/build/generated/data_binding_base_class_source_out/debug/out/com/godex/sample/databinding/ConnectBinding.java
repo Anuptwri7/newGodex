@@ -4,10 +4,8 @@ package com.godex.sample.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Button;
-import android.widget.CheckBox;
-import android.widget.EditText;
 import android.widget.LinearLayout;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -23,51 +21,16 @@ public final class ConnectBinding implements ViewBinding {
   private final LinearLayout rootView;
 
   @NonNull
-  public final CheckBox checkBox;
+  public final ProgressBar loaderProgressBar;
 
   @NonNull
-  public final LinearLayout container;
+  public final TextView loadingTextView;
 
-  @NonNull
-  public final LinearLayout containerYellow;
-
-  @NonNull
-  public final TextView displayTextViewCentered;
-
-  @NonNull
-  public final TextView displayTextViewCenteredYellow;
-
-  @NonNull
-  public final EditText inputText;
-
-  @NonNull
-  public final Button logoutButton;
-
-  @NonNull
-  public final Button printPDF;
-
-  @NonNull
-  public final Button printUsb;
-
-  @NonNull
-  public final TextView remainingDaysTextView;
-
-  private ConnectBinding(@NonNull LinearLayout rootView, @NonNull CheckBox checkBox,
-      @NonNull LinearLayout container, @NonNull LinearLayout containerYellow,
-      @NonNull TextView displayTextViewCentered, @NonNull TextView displayTextViewCenteredYellow,
-      @NonNull EditText inputText, @NonNull Button logoutButton, @NonNull Button printPDF,
-      @NonNull Button printUsb, @NonNull TextView remainingDaysTextView) {
+  private ConnectBinding(@NonNull LinearLayout rootView, @NonNull ProgressBar loaderProgressBar,
+      @NonNull TextView loadingTextView) {
     this.rootView = rootView;
-    this.checkBox = checkBox;
-    this.container = container;
-    this.containerYellow = containerYellow;
-    this.displayTextViewCentered = displayTextViewCentered;
-    this.displayTextViewCenteredYellow = displayTextViewCenteredYellow;
-    this.inputText = inputText;
-    this.logoutButton = logoutButton;
-    this.printPDF = printPDF;
-    this.printUsb = printUsb;
-    this.remainingDaysTextView = remainingDaysTextView;
+    this.loaderProgressBar = loaderProgressBar;
+    this.loadingTextView = loadingTextView;
   }
 
   @Override
@@ -97,69 +60,19 @@ public final class ConnectBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.checkBox;
-      CheckBox checkBox = ViewBindings.findChildViewById(rootView, id);
-      if (checkBox == null) {
+      id = R.id.loaderProgressBar;
+      ProgressBar loaderProgressBar = ViewBindings.findChildViewById(rootView, id);
+      if (loaderProgressBar == null) {
         break missingId;
       }
 
-      id = R.id.container;
-      LinearLayout container = ViewBindings.findChildViewById(rootView, id);
-      if (container == null) {
+      id = R.id.loadingTextView;
+      TextView loadingTextView = ViewBindings.findChildViewById(rootView, id);
+      if (loadingTextView == null) {
         break missingId;
       }
 
-      id = R.id.containerYellow;
-      LinearLayout containerYellow = ViewBindings.findChildViewById(rootView, id);
-      if (containerYellow == null) {
-        break missingId;
-      }
-
-      id = R.id.displayTextViewCentered;
-      TextView displayTextViewCentered = ViewBindings.findChildViewById(rootView, id);
-      if (displayTextViewCentered == null) {
-        break missingId;
-      }
-
-      id = R.id.displayTextViewCenteredYellow;
-      TextView displayTextViewCenteredYellow = ViewBindings.findChildViewById(rootView, id);
-      if (displayTextViewCenteredYellow == null) {
-        break missingId;
-      }
-
-      id = R.id.inputText;
-      EditText inputText = ViewBindings.findChildViewById(rootView, id);
-      if (inputText == null) {
-        break missingId;
-      }
-
-      id = R.id.logoutButton;
-      Button logoutButton = ViewBindings.findChildViewById(rootView, id);
-      if (logoutButton == null) {
-        break missingId;
-      }
-
-      id = R.id.printPDF;
-      Button printPDF = ViewBindings.findChildViewById(rootView, id);
-      if (printPDF == null) {
-        break missingId;
-      }
-
-      id = R.id.printUsb;
-      Button printUsb = ViewBindings.findChildViewById(rootView, id);
-      if (printUsb == null) {
-        break missingId;
-      }
-
-      id = R.id.remaining_days_text_view;
-      TextView remainingDaysTextView = ViewBindings.findChildViewById(rootView, id);
-      if (remainingDaysTextView == null) {
-        break missingId;
-      }
-
-      return new ConnectBinding((LinearLayout) rootView, checkBox, container, containerYellow,
-          displayTextViewCentered, displayTextViewCenteredYellow, inputText, logoutButton, printPDF,
-          printUsb, remainingDaysTextView);
+      return new ConnectBinding((LinearLayout) rootView, loaderProgressBar, loadingTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

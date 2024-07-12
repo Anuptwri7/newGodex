@@ -1,6 +1,6 @@
-#Fri Jul 12 16:38:36 NPT 2024
-base.0=C\:\\Users\\Dell\\Downloads\\godex-master\\godex-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
-base.1=C\:\\Users\\Dell\\Downloads\\godex-master\\godex-master\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes2.dex
+#Fri Jul 12 19:09:26 NPT 2024
+base.0=D\:\\anup\\godexNew\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+base.1=D\:\\anup\\godexNew\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes2.dex
 path.0=classes.dex
 path.1=classes2.dex
 renamed.0=classes.dex

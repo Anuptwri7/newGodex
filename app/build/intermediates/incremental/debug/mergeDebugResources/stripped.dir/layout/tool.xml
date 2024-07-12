@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/lb_FileSelected"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context=".Tool">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:stackFromBottom="true"
+        android:transcriptMode="alwaysScroll">
+
+        <ListView
+            android:id="@+id/in"
+            android:layout_width="fill_parent"
+            android:layout_height="180dp"
+            android:stackFromBottom="true"
+            android:transcriptMode="alwaysScroll" />
+    </LinearLayout>
+
+    <!--
+    <TextView
+        android:id="@+id/myTextView" 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"               
+    />
+    -->
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <EditText
+            android:id="@+id/edit00"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:text="~B"></EditText>
+
+        <Button
+            android:id="@+id/send"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Send Command"></Button>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/upload"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Send File" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/btGetDPI"
+            android:layout_width="171dp"
+            android:layout_height="wrap_content"
+            android:text="Get Printer DPI" />
+
+        <Button
+            android:id="@+id/print"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Simple Print Test" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/set"
+            android:layout_width="171dp"
+            android:layout_height="wrap_content"
+            android:text="Basic Setup" />
+
+        <Button
+            android:id="@+id/printPDF"
+            android:layout_width="239dp"
+            android:layout_height="wrap_content"
+            android:text="Print PDF" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <Button
+            android:id="@+id/dcnt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Disconnect" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/tb_Delay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:hint="封包Delay(ms)"
+            android:inputType="numberSigned" />
+
+        <EditText
+            android:id="@+id/tb_Frequency"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="5"
+            android:hint="每張間隔(ms)"
+            android:inputType="number"
+            android:text="2000" />
+
+        <EditText
+            android:id="@+id/tb_Times"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:ems="6"
+            android:hint="重複傳送次數"
+            android:inputType="number"
+            android:text="5" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btn_SelectFile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select File" />
+
+        <TextView
+            android:id="@+id/lb_isFileSelected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="False" />
+
+        <Button
+            android:id="@+id/btn_SendSelectedFile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send Selected File" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TextView
+            android:id="@+id/lb_isBLEConnected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connected"
+            android:textColor="#E91E63"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </TableRow>
+
+</LinearLayout>

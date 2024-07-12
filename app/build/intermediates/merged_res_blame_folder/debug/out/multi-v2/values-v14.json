@@ -4,13 +4,13 @@
             "outputFile": "com.godex.sample.app-mergeDebugResources-15:/values-v14/values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dell\\Downloads\\godex-master\\godex-master\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "D:\\anup\\godexNew\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "17",
+                        "startOffsets": "19",
                         "endColumns": "77",
-                        "endOffsets": "90"
+                        "endOffsets": "92"
                     },
                     "to": {
                         "startLines": "2",

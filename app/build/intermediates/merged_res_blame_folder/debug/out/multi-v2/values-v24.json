@@ -4,7 +4,7 @@
             "outputFile": "com.godex.sample.app-mergeDebugResources-15:/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Dell\\.gradle\\caches\\transforms-3\\2a66faf977ba55b9a65549d535de25e1\\transformed\\appcompat-v7-28.0.0\\res\\values-v24\\values-v24.xml",
+                    "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\caches\\transforms-3\\2a66faf977ba55b9a65549d535de25e1\\transformed\\appcompat-v7-28.0.0\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

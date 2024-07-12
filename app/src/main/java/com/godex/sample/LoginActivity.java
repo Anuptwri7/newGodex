@@ -130,9 +130,7 @@ public class LoginActivity extends Activity {
                                 SharedPreferences.Editor editor = sharedPreferences.edit();
                                 editor.putLong("remaining_days", remainingDays);
                                 editor.apply();
-
-                                // Navigate to the main page
-                                Intent intent = new Intent(LoginActivity.this, FrontPlateActivity.class);
+                                Intent intent = new Intent(LoginActivity.this, Connect.class);
                                 intent.putExtra("remaining_days", remainingDays);
                                 startActivity(intent);
                                 Toast.makeText(LoginActivity.this, "Success!", Toast.LENGTH_SHORT).show();

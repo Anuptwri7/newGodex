@@ -95,22 +95,7 @@ public class FrontPlateActivity extends Activity {
         bsauTextRear.setTypeface(customFontBsauRear);
 
 
-        try {
-						if (N = Godex.openport(null, 3)) {
-//							TextView exceptionTextView = findViewById(R.id.exceptionTextView);
-//							exceptionTextView.setText("USB Connected Successfully!");
-							Toast.makeText(getApplicationContext(), "USB Connected", Toast.LENGTH_SHORT).show();
-						} else {
-//							TextView exceptionTextView = findViewById(R.id.exceptionTextView);
-//							exceptionTextView.setText("USB Connect fail");
-							Toast.makeText(getApplicationContext(), "USB Connect fail", Toast.LENGTH_SHORT).show();
-						}
-					} catch (Exception e) {
-						exepction = "exception"+e.getMessage();
-						Toast.makeText(getApplicationContext(), "" + e.getMessage(), Toast.LENGTH_SHORT).show();
-//						TextView exceptionTextView = findViewById(R.id.exceptionTextView);
-//						exceptionTextView.setText(exepction);
-					}
+
         editTextNumberPlate.addTextChangedListener(new TextWatcher() {
             @Override
             public void beforeTextChanged(CharSequence s, int start, int count, int after) {
@@ -176,10 +161,31 @@ public class FrontPlateActivity extends Activity {
 
         buttonPrint = findViewById(R.id.buttonPrint);
         buttonPrint.setOnClickListener(new View.OnClickListener() {
-            @Override
             public void onClick(View v) {
-                generatePDF();
+                try {
+                    if (N = Godex.openport(null, 3)) {
+//							TextView exceptionTextView = findViewById(R.id.exceptionTextView);
+//							exceptionTextView.setText("USB Connected Successfully!");
+                        Toast.makeText(getApplicationContext(), "USB Connected", Toast.LENGTH_SHORT).show();
+                        generatePDF();
+                    } else {
+//							TextView exceptionTextView = findViewById(R.id.exceptionTextView);
+//							exceptionTextView.setText("USB Connect fail");
+                        generatePDF();
+                        Toast.makeText(getApplicationContext(), "USB Connect fail", Toast.LENGTH_SHORT).show();
+                    }
+                } catch (Exception e) {
+                    exepction = "exception"+e.getMessage();
+                    Toast.makeText(getApplicationContext(), "" + e.getMessage(), Toast.LENGTH_SHORT).show();
+//						TextView exceptionTextView = findViewById(R.id.exceptionTextView);
+//						exceptionTextView.setText(exepction);
+                }
             }
+
+//            @Override
+//            public void onClick(View v) {
+//                generatePDF();
+//            }
         });
 
 //        spinnerPlateSize.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {

@@ -5,140 +5,140 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
+7-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
 8        android:minSdkVersion="19"
-8-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:8:9-35
+8-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:8:9-35
 9        android:targetSdkVersion="29" />
-9-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:9:9-38
+9-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:9:9-38
 10
 11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-11-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:11:5-76
-11-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:11:22-73
+11-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:11:5-76
+11-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:11:22-73
 12    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-12-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:12:5-76
-12-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:12:22-73
+12-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:12:5-76
+12-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:12:22-73
 13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:13:5-67
-13-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:13:22-64
+13-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:13:5-67
+13-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:13:22-64
 14    <uses-permission android:name="android.permission.BLUETOOTH" />
-14-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:14:5-68
-14-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:14:22-65
+14-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:14:5-68
+14-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:14:22-65
 15    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-15-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:15:5-74
-15-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:15:22-71
+15-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:15:5-74
+15-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:15:22-71
 16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-16-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:16:5-81
-16-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:16:22-78
+16-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:16:5-81
+16-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:16:22-78
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:17:5-81
-17-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:17:22-78
+17-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:17:5-81
+17-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:17:22-78
 18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-18-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:18:5-80
-18-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:18:22-77
+18-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:18:5-80
+18-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:18:22-77
 19
 20    <uses-feature
-20-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:20:5-22:36
+20-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:20:5-22:36
 21        android:name="android.hardware.bluetooth_le"
-21-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:21:9-53
+21-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:21:9-53
 22        android:required="false" />
-22-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:22:9-33
+22-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:22:9-33
 23    <uses-feature
-23-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:23:5-25:35
+23-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:23:5-25:35
 24        android:name="android.hardware.usb.host"
-24-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:24:9-49
+24-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:24:9-49
 25        android:required="true" />
-25-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:25:9-32
+25-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:25:9-32
 26
 27    <application
-27-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:27:5-84:19
+27-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:27:5-84:19
 28        android:name="androidx.multidex.MultiDexApplication"
 29        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
-29-->[com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+29-->[com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 30        android:debuggable="true"
 31        android:requestLegacyExternalStorage="true"
-31-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:28:9-52
+31-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:28:9-52
 32        android:theme="@style/AppTheme.NoActionBar" >
-32-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:29:9-52
+32-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:29:9-52
 33        <activity
-33-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:32:9-41:20
+33-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:32:9-41:20
 34            android:name="com.godex.sample.LoginActivity"
-34-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:33:13-42
+34-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:33:13-42
 35            android:exported="true"
-35-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:34:13-36
+35-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:34:13-36
 36            android:theme="@style/AppTheme.NoActionBar" >
-36-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:35:13-56
+36-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:35:13-56
 37            <intent-filter>
-37-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:36:13-40:29
+37-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:36:13-40:29
 38                <action android:name="android.intent.action.MAIN" />
-38-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:37:17-69
-38-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:37:25-66
+38-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:37:17-69
+38-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:37:25-66
 39
 40                <category android:name="android.intent.category.LAUNCHER" />
-40-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:38:17-77
-40-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:38:27-74
+40-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:38:17-77
+40-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:38:27-74
 41            </intent-filter>
 42        </activity>
 43        <activity
-43-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:42:9-49:20
+43-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:42:9-49:20
 44            android:name="com.godex.sample.Register"
-44-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:43:13-37
+44-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:43:13-37
 45            android:configChanges="orientation"
-45-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:44:13-48
+45-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:44:13-48
 46            android:exported="false"
-46-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:45:13-37
+46-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:45:13-37
 47            android:label="Number Plate"
-47-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:46:13-41
+47-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:46:13-41
 48            android:theme="@style/AppTheme.NoActionBar" >
-48-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:47:13-56
+48-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:47:13-56
 49        </activity>
 50        <activity
-50-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:52:9-60:20
+50-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:52:9-60:20
 51            android:name="com.godex.sample.Loading"
-51-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:53:13-36
+51-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:53:13-36
 52            android:exported="false"
-52-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:54:13-37
+52-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:54:13-37
 53            android:theme="@style/AppTheme.NoActionBar" >
-53-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:55:13-56
+53-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:55:13-56
 54            <meta-data
-54-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:57:13-59:36
+54-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:57:13-59:36
 55                android:name="android.app.lib_name"
-55-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:58:17-52
+55-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:58:17-52
 56                android:value="" />
-56-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:59:17-33
+56-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:59:17-33
 57        </activity>
 58        <activity
-58-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:62:9-66:59
+58-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:62:9-66:59
 59            android:name="com.godex.sample.Tool"
-59-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:63:13-33
+59-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:63:13-33
 60            android:exported="false"
-60-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:64:13-37
+60-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:64:13-37
 61            android:label="Number Plate"
-61-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:65:13-41
+61-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:65:13-41
 62            android:theme="@style/AppTheme.NoActionBar" />
-62-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:66:13-56
+62-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:66:13-56
 63        <activity
-63-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:68:9-75:20
+63-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:68:9-75:20
 64            android:name="com.godex.sample.Connect"
-64-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:69:13-36
+64-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:69:13-36
 65            android:configChanges="orientation"
-65-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:70:13-48
+65-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:70:13-48
 66            android:exported="false"
-66-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:71:13-37
+66-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:71:13-37
 67            android:label="Number Plate"
-67-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:72:13-41
+67-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:72:13-41
 68            android:theme="@style/AppTheme.NoActionBar" >
-68-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:73:13-56
+68-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:73:13-56
 69        </activity>
 70        <activity
-70-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:76:9-82:20
+70-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:76:9-82:20
 71            android:name="com.godex.sample.FrontPlateActivity"
-71-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:77:13-47
+71-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:77:13-47
 72            android:configChanges="orientation"
-72-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:78:13-48
+72-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:78:13-48
 73            android:exported="false"
-73-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:79:13-37
+73-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:79:13-37
 74            android:theme="@style/AppTheme.NoActionBar" >
-74-->C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:80:13-56
+74-->D:\anup\godexNew\app\src\main\AndroidManifest.xml:80:13-56
 75        </activity>
 76    </application>
 77

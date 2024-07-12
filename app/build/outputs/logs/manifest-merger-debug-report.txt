@@ -1,287 +1,287 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:design:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.volley:volley:1.2.1] C:\Users\Dell\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:1-86:12
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:1-86:12
 	package
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:3:5-31
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:4:5-28
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
 uses-sdk
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Dell\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Dell\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Dell\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.volley:volley:1.2.1] C:\Users\Dell\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.volley:volley:1.2.1] C:\Users\Dell\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
-INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:7:5-9:41
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c929db0be0b31bcf9010d59a110eb2af\transformed\viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\24cc64fa93a424fb4e1e8a99bc32d5b9\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\ebc43c2fdbb4631a141354fe8dfa9c3d\transformed\navigation-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d881e64b2aaed5be2d6793a15cb1b050\transformed\navigation-fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\2a66faf977ba55b9a65549d535de25e1\transformed\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\543ef4bdab3b4a142d1ec0e15467ba3a\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\779ad49f28f80a434929981dd55ac511\transformed\navigation-runtime-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\6f93ec2feba33c8b47a583e654fcbdc6\transformed\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f2959090df9fe93d374e98aed26e4b29\transformed\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\85cf31e542d07928fca66d7b4fbe10e2\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\89cc35f0fc45cca124fda8c7d9089aa1\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4a26cf5bb79d7ff586c491257fafcc6f\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\82e7519a90b32d2d5552cca149369a99\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4545015df1f20a47e8e1ee05b585b728\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\4b86a56e6773377a878aeb4e133f1470\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\faffdb2f182b8c2604d7d24215f6928d\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d1db67ee6171d95f216e26664b8d25dd\transformed\navigation-common-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\9a43e1b0e689d4ff9594fd5e33590fbc\transformed\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1a1b437cf850086d8e5f25eff8e73e37\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\7febc5b110fc05d14711460846a596ad\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d815fbaed9e3e05aee5c36331f20ef42\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\d80deb5a27eff313ec4027d29bc175ed\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\67d72a074f8f24bd12d99b80549f235f\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\32d34fefdba9d4b96dfc53af9225a869\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\56f288414c786a9a35147ea3efee5387\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\1cee49601f46a27c43ac971e1fc90795\transformed\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\5979d43e87e303099b7d0b041e61ed92\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bfafe262273f4389852bfdb412b48c2d\transformed\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\41893d0bc8b0547f4292666fd642da10\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\e6b44820de6cfb178cf772d085701e5a\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\211f5822844158a7835c2401cccbd632\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\c0c5a6acd1fec8c82faf8daffd173efd\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f524218ed3a0c6389e4d722c9fa7e48a\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\93fa4de2c84bdf3f7bf2760dbc4ce776\transformed\volley-1.2.1\AndroidManifest.xml:5:5-43
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:9:9-38
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:8:9-35
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
+		INJECTED from D:\anup\godexNew\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:11:5-76
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:11:5-76
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:11:22-73
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:11:22-73
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:12:5-76
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:12:5-76
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:12:22-73
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:12:22-73
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:13:5-67
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:13:22-64
 uses-permission#android.permission.BLUETOOTH
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:14:5-68
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:14:5-68
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:14:22-65
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:14:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:15:5-74
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:15:5-74
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:15:22-71
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:15:22-71
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:16:5-81
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:16:22-78
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:17:5-81
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:17:22-78
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:17:22-78
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:18:5-80
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:18:5-80
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:18:22-77
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:18:22-77
 uses-feature#android.hardware.bluetooth_le
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:20:5-22:36
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:20:5-22:36
 	android:required
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:22:9-33
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:22:9-33
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:21:9-53
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:21:9-53
 uses-feature#android.hardware.usb.host
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:23:5-25:35
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:23:5-25:35
 	android:required
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:25:9-32
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:25:9-32
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:24:9-49
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:24:9-49
 application
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:27:5-84:19
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:27:5-84:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\bd5d2e2fb3e5aa654d5119da65fee526\transformed\constraint-layout-1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\121a3ebb37e5cc25be543996c68a190e\transformed\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\f4a24300f6676fe13abbac2a5ab31112\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
 	android:requestLegacyExternalStorage
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:28:9-52
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:28:9-52
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Dell\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Pallavi Tiwari\.gradle\caches\transforms-3\a67410de5684e4038192e4eeb6d433bd\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:29:9-52
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:29:9-52
 activity#com.godex.sample.LoginActivity
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:32:9-41:20
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:32:9-41:20
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:34:13-36
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:34:13-36
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:35:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:33:13-42
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:33:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:36:13-40:29
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:37:17-69
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:37:25-66
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:38:17-77
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:38:27-74
 activity#com.godex.sample.Register
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:42:9-49:20
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:42:9-49:20
 	android:label
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:46:13-41
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:46:13-41
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:45:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:45:13-37
 	android:configChanges
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:44:13-48
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:44:13-48
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:47:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:47:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:43:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:43:13-37
 activity#com.godex.sample.Loading
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:52:9-60:20
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:52:9-60:20
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:54:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:54:13-37
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:55:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:53:13-36
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:53:13-36
 meta-data#android.app.lib_name
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:57:13-59:36
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:57:13-59:36
 	android:value
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:59:17-33
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:59:17-33
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:58:17-52
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:58:17-52
 activity#com.godex.sample.Tool
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:62:9-66:59
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:62:9-66:59
 	android:label
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:65:13-41
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:65:13-41
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:64:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:64:13-37
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:66:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:66:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:63:13-33
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:63:13-33
 activity#com.godex.sample.Connect
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:68:9-75:20
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:68:9-75:20
 	android:label
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:72:13-41
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:72:13-41
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:71:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:71:13-37
 	android:configChanges
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:70:13-48
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:70:13-48
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:73:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:73:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:69:13-36
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:69:13-36
 activity#com.godex.sample.FrontPlateActivity
-ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:76:9-82:20
+ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:76:9-82:20
 	android:exported
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:79:13-37
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:79:13-37
 	android:configChanges
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:78:13-48
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:78:13-48
 	android:theme
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:80:13-56
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:80:13-56
 	android:name
-		ADDED from C:\Users\Dell\Downloads\godex-master\godex-master\app\src\main\AndroidManifest.xml:77:13-47
+		ADDED from D:\anup\godexNew\app\src\main\AndroidManifest.xml:77:13-47
