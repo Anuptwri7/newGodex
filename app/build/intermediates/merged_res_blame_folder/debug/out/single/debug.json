@@ -1,118 +1,142 @@
 [
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_xml_to_pdf.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\xml_to_pdf.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_spinner_background.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\spinner_background.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-xhdpi_logo.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-xhdpi\\logo.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_bg_checkered.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\bg_checkered.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_with_condition_rear.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_with_condition_rear.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_buttonblack.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\buttonblack.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_tool.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\tool.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_backgroundtext.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\backgroundtext.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_img.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\img.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_bg_checkered_rear.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\bg_checkered_rear.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_login.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\login.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_style.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\style.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_activity_front_plate.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_front_plate.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_rear.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_rear.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_register.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\register.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_with_condition.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_with_condition.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-mdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_activity_front_plate.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_front_plate.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_bg_checkered.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\bg_checkered.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_message.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\message.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-ldpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-ldpi\\ic_launcher.png"
+        "merged": "com.godex.sample.app-merged_res-17:/layout_xml_to_pdf.xml.flat",
+        "source": "com.godex.sample.app-main-19:/layout/xml_to_pdf.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_background.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_background.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_background.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_tool.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\tool.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_ig_logout.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\ig_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_rear.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_rear.xml"
     },
     {
         "merged": "com.godex.sample.app-merged_res-17:/layout_activity_front_plate.xml.flat",
         "source": "com.godex.sample.app-main-19:/layout/activity_front_plate.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-mdpi_logo.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-mdpi\\logo.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_connect.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\connect.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_connect.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\connect.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\logout.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_activity_loading.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_loading.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\spinner_background.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_button_background.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\button_background.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-hdpi_logo.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-hdpi\\logo.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_message.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\message.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_with_condition.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_with_condition.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\font_charleswrightbold.ttf.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\font\\charleswrightbold.ttf"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_img.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\img.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_login.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\login.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_border_with_condition_rear.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\border_with_condition_rear.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_xml_to_pdf.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\xml_to_pdf.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_style.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\style.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_register.xml.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\register.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\button_background.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-ldpi_logo.png.flat",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-ldpi\\logo.png"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\layout_activity_loading.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable_bg_checkered_rear.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable\\bg_checkered_rear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-merged_res-17:\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\drawable-ldpi\\logo.png"
     }
 ]

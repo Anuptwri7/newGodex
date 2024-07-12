@@ -4,7 +4,7 @@
             "outputFile": "com.godex.sample.app-mergeDebugResources-15:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\anup\\godex-master\\godex-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "C:\\Users\\Dell\\Downloads\\godex-master\\godex-master\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "2,1",
                         "startColumns": "4,4",

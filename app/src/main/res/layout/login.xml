@@ -4,8 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#3C4A0A0A"
-    android:padding="16dp"
+    android:padding="8dp"
     android:weightSum="4"
     tools:context=".LoginActivity">
 
@@ -14,42 +13,62 @@
         android:layout_height="0dp"
         android:layout_weight="1"
         android:gravity="center"
-        android:text="LOGIN"
-        android:textSize="25sp"
-        android:textStyle="bold"
+        android:text="NUMBER PLATE"
+        android:textSize="35sp"
         android:textColor="#000000"/>
 
 
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:visibility="gone" />
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
         android:orientation="vertical"
-        android:weightSum="3">
+        android:gravity="center">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="LOGIN"
+            android:textSize="35sp"
+            android:textStyle="bold"
+            android:textColor="#000000"/>
 
         <EditText
             android:id="@+id/email"
-            android:layout_width="match_parent"
+            android:layout_width="320sp"
             android:layout_height="0dp"
-            android:layout_weight="1"
             android:layout_marginStart="40dp"
+            android:layout_marginTop="8dp"
             android:layout_marginEnd="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/backgroundtext"
             android:hint="Email"
-            android:textColor="#000000"
-            android:textSize="12sp"
-            android:textColorHint="#ffffff"/>
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="12sp" />
 
         <EditText
             android:id="@+id/password"
-            android:layout_width="match_parent"
+            android:layout_width="320sp"
             android:layout_height="0dp"
-            android:layout_weight="1"
             android:layout_marginStart="40dp"
+            android:layout_marginTop="8dp"
             android:layout_marginEnd="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/backgroundtext"
             android:hint="Password"
-            android:textColor="#000000"
-            android:textSize="12sp"
-            android:textColorHint="#ffffff"/>
+            android:padding="10dp"
+            android:textColor="@color/black"
+            android:textColorHint="@color/black"
+            android:textSize="12sp" />
 
 <!--        <TextView-->
 <!--            android:id="@+id/textView4"-->
@@ -77,7 +96,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:text="Login"
-            android:background="@color/cardview_dark_background"
+            android:background="@drawable/buttonblack"
             android:textColor="#ffff"/>
 
     </LinearLayout>

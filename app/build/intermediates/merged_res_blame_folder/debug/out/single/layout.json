@@ -1,38 +1,42 @@
 [
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\connect.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\connect.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\xml_to_pdf.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\xml_to_pdf.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\xml_to_pdf.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\xml_to_pdf.xml"
+        "merged": "com.godex.sample.app-mergeDebugResources-16:/layout/xml_to_pdf.xml",
+        "source": "com.godex.sample.app-main-19:/layout/xml_to_pdf.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\register.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\register.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\register.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\register.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\tool.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\tool.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\connect.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\connect.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\login.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\login.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\tool.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\tool.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\activity_loading.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_loading.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\login.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\activity_loading.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\activity_front_plate.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_front_plate.xml"
     },
     {
         "merged": "com.godex.sample.app-mergeDebugResources-16:/layout/activity_front_plate.xml",
         "source": "com.godex.sample.app-main-19:/layout/activity_front_plate.xml"
     },
     {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\activity_front_plate.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\activity_front_plate.xml"
-    },
-    {
-        "merged": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\message.xml",
-        "source": "C:\\Users\\Pallavi Tiwari\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\message.xml"
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-mergeDebugResources-16:\\layout\\message.xml",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4.2\\com.godex.sample.app-main-19:\\layout\\message.xml"
     }
 ]

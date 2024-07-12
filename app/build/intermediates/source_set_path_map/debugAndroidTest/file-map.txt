@@ -1,7 +1,7 @@
-com.godex.sample.test.app-androidTest-0 D:\anup\godex-master\godex-master\app\build\generated\res\resValues\androidTest\debug
-com.godex.sample.test.app-androidTest-1 D:\anup\godex-master\godex-master\app\build\generated\res\rs\androidTest\debug
-com.godex.sample.test.app-mergeDebugAndroidTestResources-2 D:\anup\godex-master\godex-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.godex.sample.test.app-mergeDebugAndroidTestResources-3 D:\anup\godex-master\godex-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.godex.sample.test.app-merged_res-4 D:\anup\godex-master\godex-master\app\build\intermediates\merged_res\debugAndroidTest
-com.godex.sample.test.app-androidTest-5 D:\anup\godex-master\godex-master\app\src\androidTest\res
-com.godex.sample.test.app-androidTestDebug-6 D:\anup\godex-master\godex-master\app\src\androidTestDebug\res
+com.godex.sample.test.app-androidTest-0 C:\Users\Dell\Downloads\godex-master\godex-master\app\build\generated\res\resValues\androidTest\debug
+com.godex.sample.test.app-androidTest-1 C:\Users\Dell\Downloads\godex-master\godex-master\app\build\generated\res\rs\androidTest\debug
+com.godex.sample.test.app-mergeDebugAndroidTestResources-2 C:\Users\Dell\Downloads\godex-master\godex-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.godex.sample.test.app-mergeDebugAndroidTestResources-3 C:\Users\Dell\Downloads\godex-master\godex-master\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.godex.sample.test.app-merged_res-4 C:\Users\Dell\Downloads\godex-master\godex-master\app\build\intermediates\merged_res\debugAndroidTest
+com.godex.sample.test.app-androidTest-5 C:\Users\Dell\Downloads\godex-master\godex-master\app\src\androidTest\res
+com.godex.sample.test.app-androidTestDebug-6 C:\Users\Dell\Downloads\godex-master\godex-master\app\src\androidTestDebug\res

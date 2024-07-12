@@ -2,16 +2,58 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/zinc_800"
-    android:padding="16dp">
+    >
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:background="@color/zinc_800"
+
         android:padding="16dp">
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="end">
+
+            <TextView
+                android:id="@+id/remaining_days_text_view_fromApi"
+                android:layout_width="wrap_content"
+                style="@style/CustomFontStyle"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:layout_weight="1"/>
+
+            <Button
+                android:id="@+id/logoutButtonNumberPlate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:text="Logout"
+                android:background="@drawable/backgroundtext"
+                  android:layout_marginStart="16dp"
+                android:padding="8dp"
+                android:drawablePadding="8dp"/>
+
+        </LinearLayout>
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@android:color/darker_gray" />
+<!--        <TextView-->
+<!--            android:id="@+id/textView2"-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="center_horizontal"-->
+<!--            android:paddingTop="30dp"-->
+<!--            android:textSize="24sp"-->
+<!--            android:text="NUMBER PLATE" />-->
 <!--        <TextView-->
 <!--            android:layout_width="wrap_content"-->
 <!--            android:layout_height="wrap_content"-->
@@ -27,17 +69,17 @@
 <!--            android:textColor="@color/zinc_200"-->
 <!--            android:layout_marginTop="16dp" />-->
 
-        <Spinner
-            android:id="@+id/spinnerPlateSize"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:background="@drawable/spinner_background" />
+<!--        <Spinner-->
+<!--            android:id="@+id/spinnerPlateSize"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:background="@drawable/spinner_background" />-->
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Enter Number Plate"
-            android:textColor="@color/zinc_200"
+            android:text="Number Plate"
+            android:textColor="@color/black"
             android:layout_marginTop="16dp" />
 
         <EditText
@@ -45,7 +87,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Number Plate"
-            android:textColor="@color/zinc_200"
+            android:textColor="@color/black"
+            android:background="@drawable/backgroundtext"
             android:padding="10dp"
             android:layout_marginTop="8dp"
             android:textColorHint="@color/zinc_600"/>
@@ -53,8 +96,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Enter Dealer Info"
-            android:textColor="@color/zinc_200"
+            android:text="Dealer Info"
+            android:textColor="@color/black"
             android:layout_marginTop="16dp" />
 
         <EditText
@@ -62,7 +105,25 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Dealer Info"
-            android:textColor="@color/zinc_200"
+            android:background="@drawable/backgroundtext"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            android:layout_marginTop="8dp"
+            android:textColorHint="@color/zinc_600"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BSAU"
+            android:textColor="@color/black"
+            android:layout_marginTop="16dp" />
+
+        <EditText
+            android:id="@+id/editTextBSAU"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="BSAU"
+            android:background="@drawable/backgroundtext"
+            android:textColor="@color/black"
             android:padding="10dp"
             android:layout_marginTop="8dp"
             android:textColorHint="@color/zinc_600"/>
@@ -73,19 +134,36 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Show Border"
+            android:textColor="@color/black"
+            android:layout_marginTop="16dp"
+            android:checked="true" />
+
+        <Button
+            android:id="@+id/buttonPrint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Print"
+            android:background="@color/black"
             android:textColor="@color/zinc_200"
             android:layout_marginTop="16dp"
-            android:checked="false" />
 
-
+            />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Front Plate"
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:layout_gravity="center_horizontal" />
         <!-- Container for Front Plate -->
         <RelativeLayout
             android:id="@+id/containerFront"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="110dp"
             android:layout_marginTop="16dp"
             android:padding="16dp"
             android:paddingBottom="24dp"
+
             android:minHeight="200dp"
             android:background="@drawable/border">
 
@@ -93,14 +171,18 @@
                 android:id="@+id/textViewLetters"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:text=""
+
                 android:textColor="@color/black"
-                android:textSize="50sp"
+                android:textAllCaps="true"
+                android:textSize="30sp"
                 android:layout_centerInParent="true" />
 
             <FrameLayout
+                android:id="@+id/frameLayoutDealerInfo"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@color/zinc_200"
+                android:layout_height="14sp"
+                android:background="#FFFFFF"
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"
                 android:padding="0dp">
@@ -109,21 +191,46 @@
                     android:id="@+id/textViewDealerInfo"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text=""
-                    android:textColor="@color/black"
-                    android:layout_marginBottom="0dp"
-                    android:textSize="12sp"
-                    android:layout_gravity="center"
-                    android:padding="8dp"/>
+                    android:layout_alignParentBottom="true"
+                    android:fontFamily="@font/charleswrightbold"
+                    android:layout_centerHorizontal="true"
+                    android:text="ssdsdsdsd"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:textAllCaps="true"
+                    android:textSize="7dp"
+                    android:textColor="@android:color/black"/>
 
             </FrameLayout>
+            <TextView
+                android:id="@+id/textViewBsauFront"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:fontFamily="@font/charleswrightbold"
+                android:layout_alignParentRight="true"
+                android:text=""
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="15dp"
+
+                android:textSize="8dp"
+                android:textColor="@android:color/black"/>
         </RelativeLayout>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Rear Plate"
+
+                    android:textColor="@color/black"
+                    android:textSize="18sp"
+                    android:layout_gravity="center_horizontal" />
 
         <!-- Container for Rear Plate -->
         <RelativeLayout
             android:id="@+id/containerFrontRear"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="110dp"
             android:layout_marginTop="16dp"
             android:padding="16dp"
             android:paddingBottom="24dp"
@@ -135,40 +242,53 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
-                android:textSize="50sp"
+                android:fontFamily="@font/charleswrightbold"
+                android:textSize="30sp"
+                android:textAllCaps="true"
                 android:layout_centerInParent="true" />
 
             <FrameLayout
+                android:id="@+id/frameLayoutDealerInfoRear"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@drawable/border_with_condition_rear"
+                android:layout_height="14sp"
+                android:background="#f0b40c"
                 android:layout_alignParentBottom="true"
                 android:layout_centerHorizontal="true"
-                android:padding="0dp">
 
+                android:padding="0dp">
                 <TextView
                     android:id="@+id/textViewDealerInfoRear"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:fontFamily="@font/charleswrightbold"
+                    android:textAllCaps="true"
+                    android:layout_marginLeft="2dp"
+                    android:layout_marginRight="2dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerHorizontal="true"
                     android:text=""
-                    android:textColor="@color/black"
-                    android:layout_marginBottom="0dp"
-                    android:textSize="12sp"
-                    android:layout_gravity="center"
-                    android:padding="8dp"/>
+                    android:textSize="8sp"
+                    android:textColor="@android:color/black"/>
 
             </FrameLayout>
+            <TextView
+                android:id="@+id/textViewBsauRear"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:fontFamily="@font/charleswrightbold"
+                android:layout_alignParentRight="true"
+                android:text=""
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="15dp"
+
+                android:textSize="8dp"
+                android:textColor="@android:color/black"/>
         </RelativeLayout>
 
 
-                <Button
-                    android:id="@+id/buttonPrint"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="Printer"
-                    android:background="@drawable/button_background"
-                    android:textColor="@color/zinc_200"
-                    android:layout_marginTop="16dp" />
+
 
         <TextView
             android:id="@+id/textViewPlateDimensions"
@@ -176,6 +296,8 @@
             android:layout_height="wrap_content"
             android:textColor="@color/zinc_200"
             android:layout_marginTop="16dp" />
+
+
 
     </LinearLayout>
 </ScrollView>

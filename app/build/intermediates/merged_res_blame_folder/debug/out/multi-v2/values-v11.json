@@ -4,7 +4,7 @@
             "outputFile": "com.godex.sample.app-mergeDebugResources-15:/values-v11/values-v11.xml",
             "map": [
                 {
-                    "source": "D:\\anup\\godex-master\\godex-master\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "source": "C:\\Users\\Dell\\Downloads\\godex-master\\godex-master\\app\\src\\main\\res\\values-v11\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

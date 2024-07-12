@@ -3,8 +3,8 @@
     package="com.godex.sample.test" >
 
     <uses-sdk
-        android:minSdkVersion="26"
-        android:targetSdkVersion="33" />
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
@@ -13,9 +13,7 @@
         android:label="Tests for com.godex.sample"
         android:targetPackage="com.godex.sample" />
 
-    <application
-        android:debuggable="true"
-        android:extractNativeLibs="false" >
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

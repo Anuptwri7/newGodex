@@ -1011,6 +1011,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable backgroundtext
 drawable bg_checkered
 drawable bg_checkered_rear
 drawable border
@@ -1019,6 +1020,7 @@ drawable border_rear
 drawable border_with_condition
 drawable border_with_condition_rear
 drawable button_background
+drawable buttonblack
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1029,8 +1031,10 @@ drawable ic_launcher
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ig_logout
 drawable img
 drawable logo
+drawable logout
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
@@ -1050,6 +1054,7 @@ drawable spinner_background
 drawable style
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font charleswrightbold
 id ALT
 id CTRL
 id FUNCTION
@@ -1128,6 +1133,7 @@ id disableHome
 id displayTextViewCentered
 id displayTextViewCenteredYellow
 id edit00
+id editTextBSAU
 id editTextDealerInfo
 id editTextNumberPlate
 id edit_query
@@ -1145,6 +1151,8 @@ id fill_vertical
 id filled
 id fixed
 id forever
+id frameLayoutDealerInfo
+id frameLayoutDealerInfoRear
 id ghost_view
 id group_divider
 id home
@@ -1170,6 +1178,7 @@ id listMode
 id list_item
 id login_button
 id logoutButton
+id logoutButtonNumberPlate
 id masked
 id message
 id messagecolor
@@ -1205,6 +1214,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id remaining_days_text_view
+id remaining_days_text_view_fromApi
 id right
 id right_icon
 id right_side
@@ -1241,7 +1251,6 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
-id spinnerPlateSize
 id split_action_bar
 id spread
 id spread_inside
@@ -1268,6 +1277,8 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textView4
+id textViewBsauFront
+id textViewBsauRear
 id textViewDealerInfo
 id textViewDealerInfoRear
 id textViewLetters

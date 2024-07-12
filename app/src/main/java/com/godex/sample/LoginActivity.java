@@ -9,6 +9,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -40,23 +41,25 @@ public class LoginActivity extends Activity {
     private EditText passwordEditText;
     private Button loginButton;
     private TextView registerTextView;
-
+    private ProgressBar progressBar;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.login);
-
+        getActionBar().hide();
         emailEditText = findViewById(R.id.email);
         passwordEditText = findViewById(R.id.password);
         loginButton = findViewById(R.id.login_button);
         registerTextView = findViewById(R.id.textView4);
+        progressBar = findViewById(R.id.progressBar);
 
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(LoginActivity.this, FrontPlateActivity.class);
-
-                startActivity(intent);
+//                Intent intent = new Intent(LoginActivity.this, FrontPlateActivity.class);
+//                startActivity(intent);
+                progressBar.setVisibility(View.VISIBLE);
+                loginButton.setEnabled(false);
                 login();
             }
         });
@@ -104,7 +107,8 @@ public class LoginActivity extends Activity {
                             JSONObject subscription = response.getJSONObject("subscription");
                             String startDateStr = subscription.getString("start_date");
                             String endDateStr = subscription.getString("end_date");
-
+                            progressBar.setVisibility(View.GONE);
+                            loginButton.setEnabled(true);
                             // Parse the date using java.time API
                             if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.O) {
                                 DateTimeFormatter formatter = DateTimeFormatter.ISO_OFFSET_DATE_TIME;
@@ -128,7 +132,7 @@ public class LoginActivity extends Activity {
                                 editor.apply();
 
                                 // Navigate to the main page
-                                Intent intent = new Intent(LoginActivity.this, Connect.class);
+                                Intent intent = new Intent(LoginActivity.this, FrontPlateActivity.class);
                                 intent.putExtra("remaining_days", remainingDays);
                                 startActivity(intent);
                                 Toast.makeText(LoginActivity.this, "Success!", Toast.LENGTH_SHORT).show();
@@ -144,6 +148,8 @@ public class LoginActivity extends Activity {
                     @Override
                     public void onErrorResponse(VolleyError error) {
                         NetworkResponse networkResponse = error.networkResponse;
+                        progressBar.setVisibility(View.GONE);
+                        loginButton.setEnabled(true);
                         if (networkResponse != null) {
                             try {
                                 String responseBody = new String(networkResponse.data, HttpHeaderParser.parseCharset(networkResponse.headers, "utf-8"));
